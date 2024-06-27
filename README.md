@@ -1,2 +1,0 @@
-# Urban-Elegance
-LDCW PROJECT
