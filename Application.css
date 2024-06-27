@@ -1,0 +1,1543 @@
+/* product-listing-screen */
+
+position: relative;
+width: 414px;
+height: 961px;
+
+background: #FFFFFF;
+
+
+/* header */
+
+position: absolute;
+width: 495px;
+height: 136px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Shopping / shopping bag */
+
+position: absolute;
+visibility: hidden;
+left: 90.34%;
+right: 3.86%;
+top: 32.24%;
+bottom: 54.64%;
+
+
+
+/* Content / left alignment */
+
+position: absolute;
+visibility: hidden;
+left: 5.56%;
+right: 88.65%;
+top: 33.33%;
+bottom: 53.55%;
+
+
+
+/* Arrows / right arrow */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 27px;
+top: 59px;
+
+
+
+/* Rectangle 30 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #D9D9D9;
+border-radius: 3px;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.09%;
+right: 1.86%;
+top: 77.96%;
+bottom: -33.65%;
+
+background: #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Frame 3 */
+
+position: absolute;
+width: 190px;
+height: 328px;
+left: 0px;
+top: 187px;
+
+
+
+/* product */
+
+position: absolute;
+width: 170px;
+height: 308px;
+left: 10px;
+top: 10px;
+
+
+
+/* Rectangle 13 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+border: 1px solid #C4C4C4;
+border-radius: 10px;
+
+
+/* Rectangle 14 */
+
+position: absolute;
+left: 11.76%;
+right: 11.18%;
+top: 5.52%;
+bottom: 51.95%;
+
+background: url(cde8b6_ee79d1a2b2b7411a8f912d1d5cf73d11~mv2 (1).png);
+
+
+/* Interface / Heart_01 */
+
+position: absolute;
+left: 81.76%;
+right: 4.12%;
+top: 1.62%;
+bottom: 90.58%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 16.67%;
+bottom: 16.67%;
+
+/* Dark/100% */
+border: 2px solid #14181F;
+
+
+/* Rectangle 15 */
+
+position: absolute;
+visibility: hidden;
+left: 11.18%;
+right: 11.76%;
+top: 52.92%;
+bottom: 43.83%;
+
+background: #C4C4C4;
+border-radius: 30px;
+
+
+/* Rectangle 16 */
+
+position: absolute;
+visibility: hidden;
+left: 11.18%;
+right: 25.88%;
+top: 57.79%;
+bottom: 38.96%;
+
+background: #C4C4C4;
+border-radius: 30px;
+
+
+/* qty */
+
+position: absolute;
+visibility: hidden;
+left: 11.18%;
+right: 10.59%;
+top: 80.52%;
+bottom: 3.9%;
+
+
+
+/* Rectangle 17 */
+
+position: absolute;
+visibility: hidden;
+width: 65px;
+height: 10px;
+left: 20px;
+top: 193px;
+
+background: #C4C4C4;
+border-radius: 30px;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+visibility: hidden;
+left: 31.76%;
+right: 30%;
+top: 72.4%;
+bottom: 24.35%;
+
+background: #C4C4C4;
+border-radius: 30px;
+
+
+/* 01 Button - Primary */
+
+position: absolute;
+width: 146px;
+height: 38px;
+left: 22px;
+top: 267px;
+
+background: #000000;
+/* Button Shadow */
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 8px;
+
+
+/* Add To Cart */
+
+position: absolute;
+width: 92px;
+height: 24px;
+left: 27px;
+top: 7px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* RM 34.99 */
+
+position: absolute;
+width: 114px;
+height: 21px;
+left: 35px;
+top: 393px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 20px;
+/* identical to box height, or 82% */
+text-align: center;
+letter-spacing: -0.1875px;
+
+color: #000000;
+
+
+
+/* Button Up Shirt Without Tee */
+
+position: absolute;
+width: 117px;
+height: 15.17px;
+left: 37px;
+top: 351px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* product */
+
+position: absolute;
+width: 170px;
+height: 308px;
+left: 9px;
+top: 515px;
+
+
+
+/* Rectangle 13 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+border: 1px solid #C4C4C4;
+border-radius: 10px;
+
+
+/* Rectangle 14 */
+
+position: absolute;
+left: 11.76%;
+right: 11.18%;
+top: 5.52%;
+bottom: 51.95%;
+
+background: url(cde8b6_4fb731b09ef544cba849270958bd28d8~mv2.png);
+
+
+/* Interface / Heart_01 */
+
+position: absolute;
+left: 81.76%;
+right: 4.12%;
+top: 1.62%;
+bottom: 90.58%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 16.67%;
+bottom: 16.67%;
+
+/* Dark/100% */
+border: 2px solid #14181F;
+
+
+/* Rectangle 15 */
+
+position: absolute;
+visibility: hidden;
+left: 11.18%;
+right: 11.76%;
+top: 52.92%;
+bottom: 43.83%;
+
+background: #C4C4C4;
+border-radius: 30px;
+
+
+/* Rectangle 16 */
+
+position: absolute;
+visibility: hidden;
+left: 11.18%;
+right: 25.88%;
+top: 57.79%;
+bottom: 38.96%;
+
+background: #C4C4C4;
+border-radius: 30px;
+
+
+/* qty */
+
+position: absolute;
+visibility: hidden;
+left: 11.18%;
+right: 10.59%;
+top: 80.52%;
+bottom: 3.9%;
+
+
+
+/* Rectangle 17 */
+
+position: absolute;
+visibility: hidden;
+width: 65px;
+height: 10px;
+left: 20px;
+top: 193px;
+
+background: #C4C4C4;
+border-radius: 30px;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+visibility: hidden;
+left: 31.76%;
+right: 30%;
+top: 72.4%;
+bottom: 24.35%;
+
+background: #C4C4C4;
+border-radius: 30px;
+
+
+/* Solid Button Up Shirt */
+
+position: absolute;
+width: 117px;
+height: 15.17px;
+left: 33px;
+top: 669px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 170px;
+height: 308px;
+left: 221px;
+top: 197px;
+
+
+
+/* product */
+
+position: absolute;
+width: 170px;
+height: 308px;
+left: 221px;
+top: 197px;
+
+
+
+/* Rectangle 13 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+border: 1px solid #C4C4C4;
+border-radius: 10px;
+
+
+/* Rectangle 14 */
+
+position: absolute;
+left: 11.76%;
+right: 11.18%;
+top: 5.52%;
+bottom: 51.95%;
+
+background: url(cde8b6_639024a4f59e4bc3963ffaeea3bff256~mv2.png);
+
+
+/* Interface / Heart_01 */
+
+position: absolute;
+left: 81.76%;
+right: 4.12%;
+top: 1.62%;
+bottom: 90.58%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 16.67%;
+bottom: 16.67%;
+
+/* Dark/100% */
+border: 2px solid #14181F;
+
+
+/* Rectangle 15 */
+
+position: absolute;
+visibility: hidden;
+left: 11.18%;
+right: 11.76%;
+top: 52.92%;
+bottom: 43.83%;
+
+background: #C4C4C4;
+border-radius: 30px;
+
+
+/* Rectangle 16 */
+
+position: absolute;
+visibility: hidden;
+left: 11.18%;
+right: 25.88%;
+top: 57.79%;
+bottom: 38.96%;
+
+background: #C4C4C4;
+border-radius: 30px;
+
+
+/* qty */
+
+position: absolute;
+visibility: hidden;
+left: 11.18%;
+right: 10.59%;
+top: 80.52%;
+bottom: 3.9%;
+
+
+
+/* Rectangle 17 */
+
+position: absolute;
+visibility: hidden;
+width: 65px;
+height: 10px;
+left: 20px;
+top: 193px;
+
+background: #C4C4C4;
+border-radius: 30px;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+visibility: hidden;
+left: 31.76%;
+right: 30%;
+top: 72.4%;
+bottom: 24.35%;
+
+background: #C4C4C4;
+border-radius: 30px;
+
+
+/* RM 34.99 */
+
+position: absolute;
+width: 114px;
+height: 21px;
+left: 252px;
+top: 395px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 20px;
+/* identical to box height, or 82% */
+text-align: center;
+letter-spacing: -0.1875px;
+
+color: #000000;
+
+
+
+/* RM 34.99 */
+
+position: absolute;
+width: 114px;
+height: 21px;
+left: 33px;
+top: 710px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 20px;
+/* identical to box height, or 82% */
+text-align: center;
+letter-spacing: -0.1875px;
+
+color: #000000;
+
+
+
+/* Tropical Print Shirt */
+
+position: absolute;
+width: 117px;
+height: 15.17px;
+left: 250px;
+top: 353px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* product */
+
+position: absolute;
+width: 170px;
+height: 308px;
+left: 218px;
+top: 515px;
+
+
+
+/* Rectangle 13 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+border: 1px solid #C4C4C4;
+border-radius: 10px;
+
+
+/* Rectangle 14 */
+
+position: absolute;
+left: 11.76%;
+right: 11.18%;
+top: 5.52%;
+bottom: 51.95%;
+
+background: url(cde8b6_d728113740884b08b63659fb697d7f9a~mv2.png);
+
+
+/* Interface / Heart_01 */
+
+position: absolute;
+left: 81.76%;
+right: 4.12%;
+top: 1.62%;
+bottom: 90.58%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 16.67%;
+bottom: 16.67%;
+
+/* Dark/100% */
+border: 2px solid #14181F;
+
+
+/* Rectangle 15 */
+
+position: absolute;
+visibility: hidden;
+left: 11.18%;
+right: 11.76%;
+top: 52.92%;
+bottom: 43.83%;
+
+background: #C4C4C4;
+border-radius: 30px;
+
+
+/* Rectangle 16 */
+
+position: absolute;
+visibility: hidden;
+left: 11.18%;
+right: 25.88%;
+top: 57.79%;
+bottom: 38.96%;
+
+background: #C4C4C4;
+border-radius: 30px;
+
+
+/* qty */
+
+position: absolute;
+visibility: hidden;
+left: 11.18%;
+right: 10.59%;
+top: 80.52%;
+bottom: 3.9%;
+
+
+
+/* Rectangle 17 */
+
+position: absolute;
+visibility: hidden;
+width: 65px;
+height: 10px;
+left: 20px;
+top: 193px;
+
+background: #C4C4C4;
+border-radius: 30px;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+visibility: hidden;
+left: 31.76%;
+right: 30%;
+top: 72.4%;
+bottom: 24.35%;
+
+background: #C4C4C4;
+border-radius: 30px;
+
+
+/* RM 34.99 */
+
+position: absolute;
+width: 114px;
+height: 21px;
+left: 253px;
+top: 712px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 20px;
+/* identical to box height, or 82% */
+text-align: center;
+letter-spacing: -0.1875px;
+
+color: #000000;
+
+
+
+/* Solid Button Up Shirt */
+
+position: absolute;
+width: 117px;
+height: 15.17px;
+left: 250px;
+top: 671px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* MEN */
+
+position: absolute;
+width: 67px;
+height: 45px;
+left: 176px;
+top: 83px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 45px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 05 Tab list */
+
+position: absolute;
+width: 189px;
+height: 32px;
+left: 5px;
+top: 153px;
+
+
+
+/* Pill */
+
+position: absolute;
+width: 83px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+border-radius: 20px;
+
+
+/* SHIRTS */
+
+position: absolute;
+width: 51px;
+height: 20px;
+left: 16px;
+top: 6px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 140%;
+/* identical to box height, or 20px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Pill */
+
+position: absolute;
+width: 98px;
+height: 32px;
+left: 91px;
+top: 0px;
+
+background: #C4C4C4;
+border-radius: 20px;
+
+
+/* T-SHIRTS */
+
+position: absolute;
+width: 66px;
+height: 20px;
+left: 16px;
+top: 6px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 140%;
+/* identical to box height, or 20px */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Pill */
+
+position: absolute;
+width: 96px;
+height: 32px;
+left: 203px;
+top: 153px;
+
+background: #C4C4C4;
+border-radius: 20px;
+
+
+/* HOODIES */
+
+position: absolute;
+width: 64px;
+height: 20px;
+left: 16px;
+top: 6px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 140%;
+/* identical to box height, or 20px */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Pill */
+
+position: absolute;
+width: 102px;
+height: 32px;
+left: 308px;
+top: 153px;
+
+background: #C4C4C4;
+border-radius: 20px;
+
+
+/* BOTTOMS */
+
+position: absolute;
+width: 70px;
+height: 20px;
+left: 16px;
+top: 6px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 140%;
+/* identical to box height, or 20px */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* 01 Button - Primary */
+
+position: absolute;
+width: 146px;
+height: 38px;
+left: 234px;
+top: 454px;
+
+background: #000000;
+/* Button Shadow */
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 8px;
+
+
+/* Add To Cart */
+
+position: absolute;
+width: 92px;
+height: 24px;
+left: 27px;
+top: 7px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* 01 Button - Primary */
+
+position: absolute;
+width: 146px;
+height: 38px;
+left: 22px;
+top: 765px;
+
+background: #000000;
+/* Button Shadow */
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 8px;
+
+
+/* Add To Cart */
+
+position: absolute;
+width: 92px;
+height: 24px;
+left: 27px;
+top: 7px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* 01 Button - Primary */
+
+position: absolute;
+width: 146px;
+height: 38px;
+left: 232px;
+top: 765px;
+
+background: #000000;
+/* Button Shadow */
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 8px;
+
+
+/* Add To Cart */
+
+position: absolute;
+width: 92px;
+height: 24px;
+left: 27px;
+top: 7px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* • iPhone X / Bars / Status / Default */
+
+position: absolute;
+width: 414px;
+height: 50.53px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 29 */
+
+position: absolute;
+width: 414px;
+height: 50px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+
+/* Action */
+
+position: absolute;
+left: 5.46%;
+right: 79.72%;
+top: 31.49%;
+bottom: 26.95%;
+
+
+
+/* ↳ Time */
+
+position: absolute;
+width: 61.36px;
+height: 21px;
+left: 22.61px;
+top: calc(50% - 21px/2 + 1.15px);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 128% */
+letter-spacing: -0.1875px;
+
+color: #FFFFFF;
+
+
+
+/* Container */
+
+position: absolute;
+width: 76.14px;
+height: 13.07px;
+right: 16.48px;
+top: calc(50% - 13.07px/2 + 0.77px);
+
+
+
+/* Battery */
+
+position: absolute;
+width: 27.84px;
+height: 13.07px;
+right: 16.48px;
+top: calc(50% - 13.07px/2 + 0.77px);
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 89.3%;
+right: 3.98%;
+top: 38.59%;
+bottom: 35.54%;
+
+background: rgba(255, 255, 255, 0.36);
+
+
+/* Exclude */
+
+position: absolute;
+width: 25px;
+height: 13.07px;
+left: 369.68px;
+top: 19.5px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 22.73px;
+height: 10.8px;
+right: 20.45px;
+top: calc(50% - 10.8px/2 + 0.77px);
+
+background: rgba(0, 0, 0, 0.36);
+
+
+/* Path */
+
+position: absolute;
+width: 25px;
+height: 13.07px;
+right: 19.32px;
+top: calc(50% - 13.07px/2 + 0.77px);
+
+background: rgba(0, 0, 0, 0.36);
+
+
+/* Path */
+
+position: absolute;
+width: 1.7px;
+height: 4.55px;
+right: 16.48px;
+top: calc(50% - 4.55px/2 + 0.7px);
+
+background: rgba(0, 0, 0, 0.36);
+
+
+/* Rectangle */
+
+position: absolute;
+width: 20.45px;
+height: 8.71px;
+right: 21.59px;
+top: calc(50% - 8.71px/2 + 0.77px);
+
+background: #FFFFFF;
+border-radius: 1.81818px;
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 77.63%;
+right: 17.68%;
+top: 39.58%;
+bottom: 36.35%;
+
+background: #FFFFFF;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 3.41px;
+height: 4.55px;
+right: 89.2px;
+top: calc(50% - 4.55px/2 + 4.62px);
+
+background: #000000;
+border-radius: 1.36364px;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 3.41px;
+height: 6.82px;
+right: 83.75px;
+top: calc(50% - 6.82px/2 + 3.49px);
+
+background: #000000;
+border-radius: 1.36364px;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 3.41px;
+height: 9.43px;
+right: 78.52px;
+top: calc(50% - 9.43px/2 + 2.18px);
+
+background: #000000;
+border-radius: 1.36364px;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 3.41px;
+height: 12.16px;
+right: 73.18px;
+top: calc(50% - 12.16px/2 + 0.82px);
+
+background: #000000;
+border-radius: 1.36364px;
+
+
+/* Wi-Fi */
+
+position: absolute;
+width: 17.5px;
+height: 12.57px;
+right: 50px;
+top: calc(50% - 12.57px/2 + 0.79px);
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+width: 17.5px;
+height: 5.44px;
+right: 50px;
+top: calc(50% - 5.44px/2 - 2.77px);
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+width: 11.4px;
+height: 4.16px;
+right: 53.05px;
+top: calc(50% - 4.16px/2 + 0.94px);
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+width: 5.3px;
+height: 3.87px;
+right: 56.1px;
+top: calc(50% - 3.87px/2 + 5.14px);
+
+background: #000000;
+
+
+/* bottom-nav */
+
+position: absolute;
+width: 451px;
+height: 79px;
+left: -8px;
+top: 855px;
+
+
+
+/* Rectangle 12 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+border-radius: 0px;
+
+
+/* .DISCONTINUED / home / home_outline */
+
+position: absolute;
+left: 7.49%;
+right: 86.71%;
+top: 20.25%;
+bottom: 49.37%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 14.22%;
+bottom: 8.33%;
+
+background: #FFFFFF;
+
+
+/* Interface / Heart_01 */
+
+position: absolute;
+left: 26.33%;
+right: 67.87%;
+top: 20.25%;
+bottom: 49.37%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 2px solid #898989;
+
+
+/* .DISCONTINUED / grid / grid_big */
+
+position: absolute;
+visibility: hidden;
+left: 50.97%;
+right: 43.24%;
+top: 20.25%;
+bottom: 49.37%;
+
+
+
+/* Interface / Shopping_Bag_01 */
+
+position: absolute;
+left: 72.22%;
+right: 21.98%;
+top: 20.25%;
+bottom: 49.37%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 2px solid #898989;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 33.33%;
+bottom: 54.17%;
+
+border: 2px solid #898989;
+
+
+/* User / User_02 */
+
+position: absolute;
+left: 87.92%;
+right: 6.28%;
+top: 20.25%;
+bottom: 49.37%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 66.67%;
+bottom: 12.5%;
+
+border: 2px solid #898989;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 12.5%;
+bottom: 45.83%;
+
+border: 2px solid #898989;
+
+
+/* Home */
+
+position: absolute;
+left: 4.59%;
+right: 84.77%;
+top: 50.63%;
+bottom: 18.99%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Wishlist */
+
+position: absolute;
+left: 22.46%;
+right: 64.01%;
+top: 50.63%;
+bottom: 18.99%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #898989;
+
+
+
+/* Categories */
+
+position: absolute;
+visibility: hidden;
+left: 43.96%;
+right: 36.3%;
+top: 50.63%;
+bottom: 18.99%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #898989;
+
+
+
+/* Cart */
+
+position: absolute;
+left: 71.5%;
+right: 20.74%;
+top: 50.63%;
+bottom: 18.99%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #898989;
+
+
+
+/* Profile */
+
+position: absolute;
+left: 85.27%;
+right: 3.87%;
+top: 50.63%;
+bottom: 18.99%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #898989;
